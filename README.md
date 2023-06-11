@@ -1,3 +1,5 @@
+### Server Components
+
 **Server Components:**
 React Server Components work by allowing developers to define server-side logic directly in their React components. This logic is then executed on the server-side during server-side rendering, reducing the amount of data that needs to be transferred to the client.
 
